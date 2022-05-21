@@ -22,8 +22,6 @@ body {
 .menu {
     display: flex;
     justify-content: space-between;
-    min-width: 320px;
-    min-height: 88px;
     background: white;
 }
 .button {
@@ -93,7 +91,6 @@ p {
         margin: 0 0 0 24px;
      }
      .menu {
-         width: 768px;
          background: #fff;
      }
      .menu__burger {
@@ -189,7 +186,6 @@ p {
             width: 490px;
         }
    .menu {
-       width: 1120px;
     background: #ffffff;
     display: flex;
     justify-content: flex-end; 
